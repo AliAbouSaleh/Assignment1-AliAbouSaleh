@@ -1,0 +1,11 @@
+Model Information:
+* title:	Glendale AZ Westgate trafficlight
+* source:	https://sketchfab.com/3d-models/glendale-az-westgate-trafficlight-e802a0af37bc41978ca31ba845dbaab5
+* author:	Streetlights & ETC (https://sketchfab.com/daffyxxcoolxx)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Glendale AZ Westgate trafficlight" (https://sketchfab.com/3d-models/glendale-az-westgate-trafficlight-e802a0af37bc41978ca31ba845dbaab5) by Streetlights & ETC (https://sketchfab.com/daffyxxcoolxx) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
